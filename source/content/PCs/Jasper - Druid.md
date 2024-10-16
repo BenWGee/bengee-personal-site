@@ -15,4 +15,4 @@ HP:
 Jasper is a human druid.
 
 # Character Sheet
-<iframe src="https://www.dndbeyond.com/characters/121423906"></iframe>
+<iframe src="https://www.dndbeyond.com/characters/121423906" width="1020" height="630" style="border:none;"></iframe>
