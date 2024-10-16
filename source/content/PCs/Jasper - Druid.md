@@ -11,7 +11,7 @@ AC:
 HP:
 ---
 # TLDR
-Jasper is a human Circle of Moon Druid.
+Jasper is a human druid.
 
 # Character Sheet
 ```html

@@ -10,3 +10,5 @@ Passive Perception:
 AC: 
 HP:
 ---
+# TLDR
+Davpos is a gnome artificer.

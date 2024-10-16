@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/PCs/Jasper - Druid.md",
+                "file": "source/content/PCs/Ahrni - Wizard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jasper - Druid"
+              "title": "Ahrni - Wizard"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/PCs/Jasper - Druid.md",
+                "file": "source/content/PCs/Ahrni - Wizard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jasper - Druid"
+              "title": "Backlinks for Ahrni - Wizard"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/PCs/Jasper - Druid.md",
+                "file": "source/content/PCs/Ahrni - Wizard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Jasper - Druid"
+              "title": "Outgoing links from Ahrni - Wizard"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/PCs/Jasper - Druid.md"
+                "file": "source/content/PCs/Ahrni - Wizard.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Jasper - Druid"
+              "title": "Outline of Ahrni - Wizard"
             }
           }
         ]
@@ -181,9 +181,9 @@
   "active": "1ffdfbe6f79ef776",
   "lastOpenFiles": [
     "source/content/PCs/Davpos - Artificer.md",
-    "source/content/PCs/Ahrni - Wizard.md",
-    "source/content/PCs/Oakheart - Monk.md",
     "source/content/PCs/Jasper - Druid.md",
+    "source/content/PCs/Oakheart - Monk.md",
+    "source/content/PCs/Ahrni - Wizard.md",
     "source/content/index.md",
     "source/content/NPCs/Elaina Sartell.md",
     "source/content/NPCs/Flapjack.md",
