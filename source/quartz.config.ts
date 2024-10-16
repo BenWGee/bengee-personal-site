@@ -40,7 +40,7 @@ const config: QuartzConfig = {
           textHighlight: "#ffcc80", // Soft pastel orange text highlight
         },
         darkMode: {
-          light: "#4a148c", // Dark purple
+          light: "#9966cc", // Dark purple
           lightgray: "#6a1b9a", // Purple
           gray: "#8e24aa", // Medium purple
           darkgray: "#d1c4e9", // Light lavender gray
