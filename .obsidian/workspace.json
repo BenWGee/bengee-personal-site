@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/New Sample Note.md",
+                "file": "source/content/PCs/Oakheart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Sample Note"
+              "title": "Oakheart"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/New Sample Note.md",
+                "file": "source/content/PCs/Oakheart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New Sample Note"
+              "title": "Backlinks for Oakheart"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/New Sample Note.md",
+                "file": "source/content/PCs/Oakheart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from New Sample Note"
+              "title": "Outgoing links from Oakheart"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/New Sample Note.md"
+                "file": "source/content/PCs/Oakheart.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of New Sample Note"
+              "title": "Outline of Oakheart"
             }
           }
         ]
@@ -178,9 +178,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b65e4a730540e8e",
+  "active": "1ffdfbe6f79ef776",
   "lastOpenFiles": [
+    "source/content/PCs/Jasper.md",
+    "source/content/PCs/Davpos.md",
+    "source/content/PCs/Ahrni.md",
+    "source/content/PCs/Oakheart.md",
+    "source/content/index.md",
+    "source/content/NPCs/Elaina Sartell.md",
+    "source/content/NPCs/Flapjack.md",
+    "source/content/New Sample Note.md",
+    "source/content/category-folder/index.md",
+    "source/content/PCs",
+    "source/content/NPCs",
     "README.md",
-    "source/content/New Sample Note.md"
+    "source/README.md",
+    "NPCs"
   ]
 }
