@@ -29,28 +29,29 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8", // Background light color
-          lightgray: "#e5e5e5", // Light gray elements
-          gray: "#b8b8b8", // Gray elements
-          darkgray: "#4e4e4e", // Dark gray elements
-          dark: "#2b2b2b", // Dark background
-          secondary: "#1E90FF", // Galactic Blue (Secondary Accent)
-          tertiary: "#6A0DAD", // Nebula Purple (Primary Accent)
-          highlight: "rgba(143, 159, 169, 0.15)", // Subtle highlight
-          textHighlight: "#FF1493", // Cosmic Pink (Highlight)
+          light: "#f0f8ff", // Pastel Alice Blue (Background light color)
+          lightgray: "#e0e7ff", // Pastel Light Blue Gray (Light gray elements)
+          gray: "#c0c4e1", // Pastel Gray (Gray elements)
+          darkgray: "#a0a4b8", // Pastel Dark Gray (Dark gray elements)
+          dark: "#d1d5db", // Pastel Light Gray (Dark background)
+          secondary: "#a7c6ed", // Pastel Galactic Blue (Secondary Accent)
+          tertiary: "#d6a6e0", // Pastel Nebula Purple (Primary Accent)
+          highlight: "rgba(255, 228, 225, 0.15)", // Pastel Subtle highlight
+          textHighlight: "#ffb3d1", // Pastel Cosmic Pink (Highlight)
         },
         darkMode: {
-          light: "#161618", // Dark background light color
-          lightgray: "#393639", // Dark gray elements
-          gray: "#646464", // Gray elements
-          darkgray: "#d4d4d4", // Light gray elements
-          dark: "#ebebec", // Light background
-          secondary: "#32CD32", // Planetary Green (Buttons/Links)
-          tertiary: "#FF4500", // Solar Flare Orange (Alerts/Notifications)
-          highlight: "rgba(143, 159, 169, 0.15)", // Subtle highlight
-          textHighlight: "#FFFFFF", // Starlight White (Text)
+          light: "#2a2d34", // Dark pastel background light color
+          lightgray: "#4b4e56", // Dark pastel gray elements
+          gray: "#6c6f78", // Dark pastel gray elements
+          darkgray: "#d9d9d9", // Light pastel gray elements
+          dark: "#f0f0f0", // Light pastel background
+          secondary: "#b2e0b2", // Pastel Planetary Green (Buttons/Links)
+          tertiary: "#ffb3b3", // Pastel Solar Flare Orange (Alerts/Notifications)
+          highlight: "rgba(255, 228, 225, 0.15)", // Pastel Subtle highlight
+          textHighlight: "#ffffff", // Pastel Starlight White (Text)
         },
       },
+
     },
   },
   plugins: {
