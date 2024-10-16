@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Sample Note.md",
+                "file": "source/content/New Sample Note.md",
                 "mode": "source",
                 "source": false
               },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Sample Note.md",
+                "file": "source/content/New Sample Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Sample Note.md",
+                "file": "source/content/New Sample Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Sample Note.md"
+                "file": "source/content/New Sample Note.md"
               },
               "icon": "lucide-list",
               "title": "Outline of New Sample Note"
@@ -178,9 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ffdfbe6f79ef776",
+  "active": "5b65e4a730540e8e",
   "lastOpenFiles": [
     "README.md",
-    "New Sample Note.md"
+    "source/content/New Sample Note.md"
   ]
 }
