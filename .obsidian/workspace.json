@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quartz.layout.ts",
+                "query": "quartz 4.0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,7 +156,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f774bda920d0d36b",
+  "active": "c07f0ebae36844ef",
   "lastOpenFiles": [
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
