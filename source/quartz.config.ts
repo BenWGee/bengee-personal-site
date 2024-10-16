@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🚀 Dungeons & Debris",
+    pageTitle: "🚀  Dungeons & Debris",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,29 +29,28 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f0f8ff", // Pastel Alice Blue (Background light color)
-          lightgray: "#e0e7ff", // Pastel Light Blue Gray (Light gray elements)
-          gray: "#c0c4e1", // Pastel Gray (Gray elements)
-          darkgray: "#a0a4b8", // Pastel Dark Gray (Dark gray elements)
-          dark: "#d1d5db", // Pastel Light Gray (Dark background)
-          secondary: "#a7c6ed", // Pastel Galactic Blue (Secondary Accent)
-          tertiary: "#d6a6e0", // Pastel Nebula Purple (Primary Accent)
-          highlight: "rgba(255, 228, 225, 0.15)", // Pastel Subtle highlight
-          textHighlight: "#ffb3d1", // Pastel Cosmic Pink (Highlight)
+          light: "#f9f9f9", // Soft white
+          lightgray: "#f0f4f8", // Very light gray
+          gray: "#d1d5db", // Light gray
+          darkgray: "#a1a1a1", // Soft gray
+          dark: "#6b7280", // Muted dark gray
+          secondary: "#a7c6ed", // Pastel blue
+          tertiary: "#f6d6a6", // Pastel yellow
+          highlight: "rgba(255, 182, 193, 0.15)", // Light pastel pink highlight
+          textHighlight: "#ffeb3b88", // Soft pastel yellow text highlight
         },
         darkMode: {
-          light: "#2a2d34", // Dark pastel background light color
-          lightgray: "#4b4e56", // Dark pastel gray elements
-          gray: "#6c6f78", // Dark pastel gray elements
-          darkgray: "#d9d9d9", // Light pastel gray elements
-          dark: "#f0f0f0", // Light pastel background
-          secondary: "#b2e0b2", // Pastel Planetary Green (Buttons/Links)
-          tertiary: "#ffb3b3", // Pastel Solar Flare Orange (Alerts/Notifications)
-          highlight: "rgba(255, 228, 225, 0.15)", // Pastel Subtle highlight
-          textHighlight: "#ffffff", // Pastel Starlight White (Text)
+          light: "#2d2d2d", // Dark background
+          lightgray: "#4a4a4a", // Darker gray
+          gray: "#646464", // Medium gray
+          darkgray: "#d4d4d4", // Light gray for dark mode
+          dark: "#ebebec", // Lightest gray for dark mode
+          secondary: "#7b97aa", // Muted pastel blue
+          tertiary: "#f6d6a6", // Pastel yellow
+          highlight: "rgba(255, 182, 193, 0.15)", // Light pastel pink highlight
+          textHighlight: "#ffeb3b88", // Soft pastel yellow text highlight
         },
       },
-
     },
   },
   plugins: {
