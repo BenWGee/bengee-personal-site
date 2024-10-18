@@ -11,10 +11,14 @@
             "id": "f774bda920d0d36b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Locations/The Rock of Bral.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Rock of Bral"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quartz 4.0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,8 +159,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c07f0ebae36844ef",
+  "active": "f774bda920d0d36b",
   "lastOpenFiles": [
+    "Pasted image 20241018202919.png",
+    "Pasted image 20241018202911.png",
+    "Pasted image 20241018202854.png",
+    "source/content/category-folder/Some note.md",
+    "source/content/Locations/The Rock of Bral.md",
+    "source/content/Locations",
     "source/quartz/static/og-image.png",
     "source/quartz/static/icon.png",
     "source/docs/features/explorer.md",
