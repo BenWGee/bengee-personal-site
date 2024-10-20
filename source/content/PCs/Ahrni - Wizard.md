@@ -13,3 +13,5 @@ HP:
 #PC
 # TLDR
 Ahrni is a tiefling wizard
+
+[[Ahrni_Character_Sheet.pdf]]
