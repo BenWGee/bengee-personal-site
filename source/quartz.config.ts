@@ -40,15 +40,15 @@ const config: QuartzConfig = {
           textHighlight: "#ffcc80", // Soft pastel orange text highlight
         },
         darkMode: {
-          light: "#9966cc", // Dark purple
-          lightgray: "#6a1b9a", // Purple
-          gray: "#8e24aa", // Medium purple
-          darkgray: "#d1c4e9", // Light lavender gray
-          dark: "#f3e5f5", // Lightest lavender
-          secondary: "#ffab40", // Bright orange
-          tertiary: "#ba68c8", // Light purple
-          highlight: "rgba(255, 138, 101, 0.15)", // Light pastel orange highlight
-          textHighlight: "#ffcc80", // Soft pastel orange text highlight
+          light: "#161618", 
+          lightgray: "#393639",
+          gray: "#646464", 
+          darkgray: "#d4d4d4", 
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d", 
+          highlight: "rgba(143, 159, 169, 0.15)", 
+          textHighlight: "#b3aa0288",
         },
       },
     },
