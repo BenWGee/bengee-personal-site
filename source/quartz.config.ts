@@ -45,12 +45,11 @@ const config: QuartzConfig = {
           gray: "#646464", 
           darkgray: "#d4d4d4", 
           dark: "#ebebec",
-          secondary: "#6200ea", // Bright purple
-          tertiary: "#ba68c8", // Light purple
-          highlight: "rgba(255, 0, 255, 0.15)", // Light pastel magenta highlight
-          textHighlight: "#e1bee7", // Soft pastel lavender text highlight
+          secondary: "#7b97aa",
+          tertiary: "#84a59d", 
+          highlight: "rgba(143, 159, 169, 0.15)", 
+          textHighlight: "#b3aa0288",
         },
-
       },
     },
   },
