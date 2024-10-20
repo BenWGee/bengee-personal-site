@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f774bda920d0d36b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Quest Log/Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quests"
-            }
-          },
-          {
-            "id": "10343ea46646f162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/content/Quest Log/Quests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Quests"
-            }
-          },
-          {
             "id": "f99f59ff05d586e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/NPCs/Elaina Sartell.md",
+                "file": "source/content/Sample Sheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elaina Sartell"
+              "title": "Sample Sheet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,15 +159,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b65e4a730540e8e",
+  "active": "f99f59ff05d586e9",
   "lastOpenFiles": [
-    "README.md",
+    "source/content/index.md",
+    "source/content/PCs/Jasper - Druid.md",
     "source/content/Quest Log/Quests.md",
+    "source/content/Quest Log/index.md",
+    "source/content/Sample Sheet.md",
+    "source/content/NPCs/Elaina Sartell.md",
+    "README.md",
     "Pasted image 20241018202911.png",
     "Pasted image 20241018202854.png",
     "Pasted image 20241018202919.png",
     "source/README.md",
-    "source/content/Quest Log/index.md",
     "source/content/category-folder/index.md",
     "source/content/Quest Log/Work In Progress/Save The Planet.md",
     "source/content/Quest Log/Work In Progress",
@@ -204,9 +179,7 @@
     "source/content/Quest Log/Complete/The Astral Captain.md",
     "source/content/Quest Log/Complete/Dragons Over Stormwreck Isle.md",
     "source/content/Quest Log/Complete",
-    "source/content/index.md",
     "source/content/Quest Log",
-    "source/content/Untitled.md",
     "source/content/GM Notes/Session Planning/Session 123.md",
     "source/content/GM Notes/Sample Note.md",
     "source/content/Locations/The Rock of Bral.md",
@@ -218,12 +191,10 @@
     "source/quartz/static/icon.png",
     "source/docs/features/explorer.md",
     "source/docs/features/comments.md",
-    "source/content/PCs/Jasper - Druid.md",
     "source/CODE_OF_CONDUCT.md",
     "source/content/PCs/Oakheart - Monk.md",
     "source/content/PCs/Davpos - Artificer.md",
     "source/content/PCs/Ahrni - Wizard.md",
-    "source/content/NPCs/Elaina Sartell.md",
     "source/content/NPCs/Flapjack.md",
     "source/content/New Sample Note.md",
     "source/content/PCs",
