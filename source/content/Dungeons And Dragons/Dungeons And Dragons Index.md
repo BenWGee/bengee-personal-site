@@ -8,6 +8,13 @@ If you are a member of the campaign please avoid any notes in a folder clearly t
 
 This campaign is based on the "Spelljammer Adventures in Space" series of books for D&D 5th edition. 
 
+You can find relevant files under the "Dungeons And Dragons" folder.
+There is also a folder per character:
+- [[Ahrni - Visible For All]]
+- [[Davpos - Visible For All]]
+- [[Jasper - Visible For All]]
+- [[Oakheart - Visible For All]]
+
 
 
  
