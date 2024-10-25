@@ -11,10 +11,14 @@
             "id": "25268a1ff4ba74b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Professional/Writing Portfolio.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Writing Portfolio"
             }
           }
         ]
@@ -157,6 +161,7 @@
   },
   "active": "25268a1ff4ba74b4",
   "lastOpenFiles": [
+    "source/content/index.md",
     "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241021 - Meta Session.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/your-wish-my-command-2007-10-23.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/working-peanuts-2007-10-08.md",
@@ -182,7 +187,6 @@
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/hoarders-consequences-2007-10-29.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/favor-mighty-2007-10-23.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/faeries-vs-giants-2007-10-02.md",
-    "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/demystifying-presence-2007-10-24.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/12",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/11",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10",
