@@ -1,20 +1,3 @@
-
----
-[Link to Wayback Machine](https://web.archive.org/web/20211207093754/https://magic.wizards.com/en/articles/archive/deck-check-procedures-2000-02-29)
-
-[_metadata_:author]:- "Wizards of the Coast"
-[_metadata_:description]:- "Jimmer Sivertsen There are 2 main goals when conducting a deck check. The most important is making sure that players are playing correctly registered decks. It is administrative by nature, but necessary. Players should want decklists to be used - the only severe penalties are for those who are caught cheating. The second goal pales in comparison, that of speed, which will only"
-[_metadata_:generator]:- "Drupal 7 (http://drupal.org)"
-[_metadata_:node]:- "937631"
-[_metadata_:publish_date]:- "2000-02-29"
-[_metadata_:source]:- "div-main-content"
-[_metadata_:title]:- "Deck Check Procedures"
-[_metadata_:wayback_capture_timestamp]:- "2021-12-07 09:37:54"
-[_metadata_:wayback_raw_url]:- "https://web.archive.org/web/20211207093754id_/https://magic.wizards.com/en/articles/archive/deck-check-procedures-2000-02-29"
-[_metadata_:wayback_url]:- "https://magic.wizards.com/en/articles/archive/deck-check-procedures-2000-02-29"
----
-
-
 Deck Check Procedures
 =====================
 
