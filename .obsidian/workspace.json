@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/ormos-sample/Mark Wraith.md",
-                "mode": "source",
+                "file": "source/content/ormos-sample/archive/en/articles/archive/2000/01/whos-who-grand-prix-warsaw-2000-01-01.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mark Wraith"
+              "title": "whos-who-grand-prix-warsaw-2000-01-01"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "warsaw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,12 +159,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b65e4a730540e8e",
+  "active": "25268a1ff4ba74b4",
   "lastOpenFiles": [
-    "source/content/ormos-sample/archive/en/articles/archive/2000/01/whos-who-grand-prix-warsaw-2000-01-01.md",
     "source/content/ormos-sample/Mark Wraith.md",
-    "content/ormos-sample/archive/en/articles/archive/2000/01/whos-who-grand-prix-warsaw-2000-01-01.md",
+    "source/content/ormos-sample/archive/en/articles/archive/2000/01/whos-who-grand-prix-warsaw-2000-01-01.md",
     "source/content/ormos-sample/archive/en/articles/archive/2000/02/deck-check-procedures-2000-02-29.md",
+    "content/ormos-sample/archive/en/articles/archive/2000/01/whos-who-grand-prix-warsaw-2000-01-01.md",
     "content/ormos-sample/archive/en/articles/archive/2000/01",
     "content/ormos-sample/archive/en/articles/archive/2000",
     "content/ormos-sample/archive/en/articles/archive",
