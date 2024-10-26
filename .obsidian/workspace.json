@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ronde",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,6 +162,8 @@
   },
   "active": "25268a1ff4ba74b4",
   "lastOpenFiles": [
+    "source/content/ormos-sample/archive/en/articles/archive/2000/01/ronde-2-2000-01-01.md",
+    "source/content/Professional/Writing Portfolio.md",
     "source/content/index.md",
     "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241021 - Meta Session.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/your-wish-my-command-2007-10-23.md",
@@ -185,8 +188,6 @@
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/lorwyn-release-tv-spots-2-3-2007-10-09.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/lorwyn-goblins-and-circle-death-2007-10-05.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/hoarders-consequences-2007-10-29.md",
-    "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/favor-mighty-2007-10-23.md",
-    "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10/faeries-vs-giants-2007-10-02.md",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/12",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/11",
     "source/content/ormos-but-make-it-visible/archive/en/articles/archive/2007/10",
