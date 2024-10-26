@@ -1,19 +1,4 @@
 
----
-[Link to Wayback Machine]: "[Click Here](https://web.archive.org/web/20171030050336/https://magic.wizards.com/en/articles/archive/whos-who-grand-prix-warsaw-2000-01-01)"
-[_metadata_:author]: "Mark Wraith"
-[_metadata_:description]: "[decklist] Title: Craig Jones Subtitle: R-W-U Angel Deck Format: 6 Island 4 Mountain 3 Plains 4 Shivan Reef 4 Coastal Tower 4 Battlefield Forge 4 Sunscape Familiar 4 Lightning Angel 2 Goblin Trenches 2 Urza's Rage 4 Absorb 3 Exclude 2 Evasive Action 1 Suffocating Blast 3 Fire // Ice 3 Prophetic Bolt 3 Repulse 4 Fact or Fiction *3 Planar Overlay *2 Rakavolver"
-[_metadata_:generator]: "Drupal 7 (http://drupal.org)"
-[_metadata_:node]: "959316"
-[_metadata_:publish_date]: "2000-01-01"
-[_metadata_:source]: "div-main-content"
-[_metadata_:title]: "Who's Who at Grand Prix Warsaw"
-[_metadata_:wayback_capture_timestamp]: "2017-10-30 05:03:36"
-[_metadata_:wayback_raw_url]: "https://web.archive.org/web/20171030050336id_/https://magic.wizards.com/en/articles/archive/whos-who-grand-prix-warsaw-2000-01-01"
-[_metadata_:wayback_url]: "https://magic.wizards.com/en/articles/archive/whos-who-grand-prix-warsaw-2000-01-01"
----
-
-
 Who's Who at Grand Prix Warsaw
 ==============================
 
