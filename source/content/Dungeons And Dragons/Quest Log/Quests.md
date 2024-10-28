@@ -3,6 +3,8 @@
 - [ ] [[Make a House a Home]]
 - [ ] [[Find Commodore Krux]]
 - [ ] [[Acquire Library Card]]
+- [ ] [[My Blickyyyy]]
+- [ ] [[Learn More About the Nautiloid]]
 
 # Complete
 - [x] [[Dragons Over Stormwreck Isle]]

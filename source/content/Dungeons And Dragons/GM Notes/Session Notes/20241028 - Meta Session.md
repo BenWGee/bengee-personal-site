@@ -1,0 +1,81 @@
+---
+Players: Rupert, Sven
+---
+#meta_session
+# Ship to Luskan
+- Oakheart thoughts:
+	- Torn, original purpose (relayed to party). Why they are here
+		- My temple lost a child of prophecy
+		- Oakheart to return him
+		- Former friend of Kayleb
+- Davpos thoughts:
+	- Shock and stun of scale
+	- Fantastical object.. FROM SPACE
+	- Cave inside a cave
+- D to O: What is it like growing in monastery?
+	- Peaceful and orderly
+	- Discipline
+	- Pet crab is stretching the limit
+	- Chosen one does whateveeer they want
+	- Doubtful of chosen one and jealous
+	- D to O: Prophecy vs independence?
+		- Chosen one will change how the monastery will run
+		- Redirect the lane, lead it on
+		- Chosen one would be born by natural causes
+		- New chosen one apparent every 100 years
+		- Davpos:
+			- Not specifically religious affiliation
+			- Different style of authority
+- O to D: Why did Davpos leave the underdark?
+	- You learned your stuff, now go outside learn from others and perfect your practice
+	- Would you go back?
+		- Do not know
+		- Nice to know they can, but do not feel compelled to
+		- Happy to be away from mother
+- What does an astral dragon look like?
+	- Sparkly
+	- Not adhering to color and shape standards of chromatic and metalic dragons
+	- BIG
+	- Emotion: 
+		- O: Unsure, Bahmut relationship, fear of other connections
+		- D: Size fear, avoiding the thoughts of doom
+- Oakheart: Dream home
+	- Tranquil lodge at the top of the mountain
+	- Alone, with Shelly
+- Davpos: What sort of law do you believe
+	- Try treat people how you would like to be treated
+	- Equal opportunistic
+	- Can be broken
+- Planet is fucked now what?
+	- O: That's my home!
+		- New purpose the survival of refugees
+- How do you feel about the refugees?
+	- Davpos: not phased
+		- Do not care especially for any
+	- Oakheart: Struggled
+		- Guilt of having them deprived of a "quick end"
+- Wanted man
+	- Davpos: If we are wanted, Sartell is wanted
+	- Oakheart: Wanted puts the refugees in danger and his search for chosen one
+- How does the Nautiloid/Mind Flayer tech sit with Jasper?
+	- Davpos:
+		- Fascinated but do not want to think about the scary creatures you encountered
+		- This is cool
+			- Does not like the aesthetic
+			- But not outright against it
+	- Oakheart:
+		- Deeply unsettled, unnatural
+		- Cling to Sartell's orders as guideline in an unsettling place
+		- Acted on command
+		- Kill on sight
+		- Unsettled by Jasper's reaction
+			- Jasper upset at the immediate backstab
+			- Happy to keep the dog alive
+- You see the Rock of Bral and the city itself. What is running in the head?
+	- Oakheart: Hates cities
+	- Davpos: Loves
+	- Oakheart: Expected more roguish, but now handed a basket of gifts. Accepts
+- Davpos objectives:
+	- Learn more about Nautiloid and the biopmechanics
+		- A chance to remove their arm
+	- Acquire gun
