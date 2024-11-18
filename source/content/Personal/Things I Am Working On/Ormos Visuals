@@ -1,0 +1,14 @@
+# What is it?
+Ormos is an archive of Magic the Gathering articles maintained by MaxMakesMagic. Ormos came about when Witzards of the Coast moved to a new website playform. This lead to many articles being lost to time. 
+
+# What am I doing?
+Obsidian/Quartz (which powers this website) has a great user friendly way to host, display, and link together markdown pages. Ormos happens to store all the old articles in markdown form. This means Ormos could be hosted on quartz with a little bit of work.
+
+# Goal
+- Convert Ormos to a Quart-friendly format
+- Divide and conquer Ormos data to display on a site
+
+# Chalenges
+- Ormos is made of a lot of different pages. May need to divide and conquer e.g by Author, by year etc to keep things managable
+- Articles are likely missing media
+- From a small demo/subset there was differences in Ormos's naming convention and that expected by Quartz. This means we cannot jnust drag and drop the files. There is some manual work needed to rename files. 
