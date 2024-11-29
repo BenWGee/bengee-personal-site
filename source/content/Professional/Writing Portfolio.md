@@ -16,4 +16,4 @@ Writing has always been important to me. It is a professional and personal outle
   My academic background is in physics, and data science. These subjects are often masked in technical jargon, formula, and dense concepts. Science is only valuable when we can apply it. Through these studies, and practicing I aim to make complex concepts easy to understnad.
 
   # Contact
-  
+  [[Contact.md]]
