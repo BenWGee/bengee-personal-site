@@ -1,4 +1,9 @@
-#quest 
+---
+tags:
+  - quest
+---
+
+
 [[Davpos - Visible For All]]/[[Jasper - Visible For All]]
 - After overhearing a fantastical tale of a lone pirate felling a great Solar Dragon the group decided to share their own tale.
 - Davpos wove a tale of their encounter with an Illithid. 

@@ -2,6 +2,7 @@
 Players: Rupert, Sven
 ---
 #meta_session
+
 # Ship to Luskan
 - Oakheart thoughts:
 	- Torn, original purpose (relayed to party). Why they are here

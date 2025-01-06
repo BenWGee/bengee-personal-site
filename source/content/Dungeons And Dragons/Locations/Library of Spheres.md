@@ -1,1 +1,5 @@
-#location
+---
+tags:
+  - location
+---
+

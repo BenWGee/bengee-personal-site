@@ -2,6 +2,8 @@
 Other Names: The Rock, Bral
 Size: Approx 1.5 km by 1km
 Population: Humans/Humanoid
+tag:
+  - location
 ---
 #location
 

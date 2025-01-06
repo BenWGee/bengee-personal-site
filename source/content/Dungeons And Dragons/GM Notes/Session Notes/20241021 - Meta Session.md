@@ -2,6 +2,7 @@
 Players: Maciek, Jake
 ---
 #meta_session
+
 - Players leveled up to 6th level
 # Ship to Luskan
 - Jasper

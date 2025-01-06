@@ -1,6 +1,10 @@
-#npc
+---
+tags:
+  - npc
+---
 
-Commordpre Krux is a Giff based on the Rock of Bral. While he spends much of his time in the [[Happy Beholder]] he still enjoys adventuring out onto the Astral Sea. 
+
+Commodore Krux is a Giff based on the Rock of Bral. While he spends much of his time in the [[Happy Beholder]] he still enjoys adventuring out onto the Astral Sea. 
 
 When not sailing the seas he rents out his vessels to up-and-coming adventurers and privateers. 
 

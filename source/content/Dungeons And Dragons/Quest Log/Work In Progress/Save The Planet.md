@@ -1,4 +1,9 @@
-#quest
+---
+tags:
+  - quest
+---
+
+
 So your planet has been destroyed...
 - Having see your planet become ravaged by large crystalline vines all hope seems lost. 
 - Speaking with Astral Elves that attacked you as you fled your home something seems amiss. 
