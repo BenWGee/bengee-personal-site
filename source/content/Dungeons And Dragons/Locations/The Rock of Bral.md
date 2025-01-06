@@ -3,6 +3,8 @@ Other Names: The Rock, Bral
 Size: Approx 1.5 km by 1km
 Population: Humans/Humanoid
 ---
+#location
+
 # Map
 https://static.wikia.nocookie.net/forgottenrealms/images/6/69/Rock_of_Bral_topside_map_5e.jpg/revision/latest?cb=20220820131238
 
