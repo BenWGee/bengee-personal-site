@@ -14,14 +14,29 @@
               "type": "markdown",
               "state": {
                 "file": "source/content/Dungeons And Dragons/Quest Log/Quests.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Quests"
             }
+          },
+          {
+            "id": "96720e251ff99f0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Save The Planet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Save The Planet"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,12 +174,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3b4dcd0bc60ca8e",
+  "active": "96720e251ff99f0f",
   "lastOpenFiles": [
-    "source/content/Dungeons And Dragons/GM Notes/Story Beats/Part 4 - Saviors of the Multiverse/Chapter 10 - Space Invaders.md",
-    "source/content/Dungeons And Dragons/Quest Log/Quests.md",
-    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Learn More About the Nautiloid.md",
+    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Make a House a Home.md",
+    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Save The Planet.md",
     "source/content/Dungeons And Dragons/Quest Log/Work In Progress/My Blickyyyy.md",
+    "source/content/Dungeons And Dragons/Quest Log/Complete/Treacherous Salvage.md",
+    "source/content/Dungeons And Dragons/Quest Log/Complete/The Second Wind - Late Payments.md",
+    "source/content/Dungeons And Dragons/NPCs/Fel Ardra.md",
+    "source/content/Dungeons And Dragons/NPCs/attachments/Pasted image 20250106232427.png",
+    "source/content/Dungeons And Dragons/Quest Log/Complete/The Astral Captain.md",
+    "source/content/Dungeons And Dragons/Quest Log/Complete/Dragons Over Stormwreck Isle.md",
+    "source/content/Dungeons And Dragons/Locations/Happy Beholder.md",
+    "source/content/Dungeons And Dragons/NPCs/Large Luigi.md",
+    "source/content/Dungeons And Dragons/NPCs/Flapjack.md",
+    "source/content/Dungeons And Dragons/NPCs/Elaina Sartell.md",
+    "source/content/Dungeons And Dragons/NPCs/Commodore Krux.md",
+    "source/content/Dungeons And Dragons/NPCs/attachments/sartell.png",
+    "source/content/Dungeons And Dragons/NPCs/attachments/krux.png",
+    "source/content/Dungeons And Dragons/NPCs/attachments",
+    "source/content/Dungeons And Dragons/Quest Log/Quests.md",
+    "source/content/Dungeons And Dragons/GM Notes/Story Beats/Part 4 - Saviors of the Multiverse/Chapter 10 - Space Invaders.md",
+    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Learn More About the Nautiloid.md",
     "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241028 - Meta Session.md",
     "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241021 - Meta Session.md",
     "source/content/ormos-sample/archive/en/articles/archive/2000/02/deck-check-procedures-2000-02-29.md",
@@ -183,20 +214,7 @@
     "source/content/Dungeons And Dragons/Quest Log/Sample Sheet.md",
     "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Acquire Library Card.md",
     "source/content/Dungeons And Dragons/PCs/Ahrni - Personal/Ahrni - Visible For All.md",
-    "source/content/Dungeons And Dragons/PCs/Jasper - Personal/Jasper - Visible For All.md",
-    "source/content/Dungeons And Dragons/GM Notes/Sample Note.md",
     "source/content/Dungeons And Dragons/GM Notes/Session Notes",
-    "source/content/Dungeons And Dragons/GM Notes/Untitled.md",
-    "source/content/Dungeons And Dragons/Dungeons And Dragons Index.md",
-    "source/content/Dungeons And Dragons/Quest Log/index.md",
-    "source/content/index.md",
-    "source/content/Professional/Professional - Index.md",
-    "source/content/Professional/Personal Statement.md",
-    "README.md",
-    "Progessessional.md",
-    "source/content/Personal/Personal - Index.md",
-    "source/content/Personal/Things I Am Working On/Thermal Printer Polaroid.md",
-    "source/content/Personal/Things I Am Working On",
     "attachments/Pasted image 20241020162712.png",
     "Pasted image 20241018202911.png",
     "Pasted image 20241018202854.png",

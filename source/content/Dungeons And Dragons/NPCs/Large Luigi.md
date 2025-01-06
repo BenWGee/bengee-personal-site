@@ -1,0 +1,1 @@
+Large Luigi is a beholder that runs the [[Happy Beholder]] inn.
