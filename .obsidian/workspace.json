@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Dungeons And Dragons/Locations/The Rock of Bral.md",
+                "file": "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes/Xenotermination LTD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Rock of Bral"
+              "title": "Xenotermination LTD"
             }
           }
         ]
@@ -161,13 +161,28 @@
   },
   "active": "f3b4dcd0bc60ca8e",
   "lastOpenFiles": [
+    "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes/Vespera Vex Thorne.md",
+    "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes/Xenotermination LTD.md",
+    "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes/attachments/Vespera Vex Thorne.png",
+    "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes/attachments/Pasted image 20250111220140.png",
+    "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes/attachments",
+    "source/content/Dungeons And Dragons/GM Notes/WIP_Player_Notes",
+    "source/content/Dungeons And Dragons/GM Notes/Quest Notes/Monster Hunter - GM Notes.md",
+    "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241028 - Meta Session.md",
+    "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241021 - Meta Session.md",
+    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/My Blickyyyy.md",
+    "source/content/Dungeons And Dragons/GM Notes/Untitled.md",
+    "source/content/Dungeons And Dragons/GM Notes/Quest Notes",
+    "source/content/Dungeons And Dragons/GM Notes/Sample Note.md",
+    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Get a Ship.md",
+    "source/content/Dungeons And Dragons/NPCs/Large Luigi.md",
+    "source/content/Dungeons And Dragons/Locations/The Rock of Bral.md",
     "source/content/Dungeons And Dragons/Locations/Happy Beholder.md",
     "source/content/Dungeons And Dragons/Locations/Library of Spheres.md",
     "source/content/Dungeons And Dragons/Locations/Mages Guildhall.md",
     "source/content/Dungeons And Dragons/Dungeons And Dragons Index.md",
     "source/content/Dungeons And Dragons/Quest Log/Quests.md",
     "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Save The Planet.md",
-    "source/content/Dungeons And Dragons/Quest Log/Work In Progress/My Blickyyyy.md",
     "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Monster Hunters.md",
     "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Make a House a Home.md",
     "source/content/Dungeons And Dragons/Quest Log/Work In Progress/Learn More About the Nautiloid.md",
@@ -176,17 +191,6 @@
     "source/content/Dungeons And Dragons/Quest Log/Complete/Treacherous Salvage.md",
     "source/content/Dungeons And Dragons/Quest Log/Complete/The Second Wind - Late Payments.md",
     "source/content/Dungeons And Dragons/Quest Log/Complete/The Astral Captain.md",
-    "source/content/Dungeons And Dragons/Quest Log/Complete/Dragons Over Stormwreck Isle.md",
-    "source/content/Dungeons And Dragons/NPCs/Commodore Krux.md",
-    "source/content/Dungeons And Dragons/NPCs/Elaina Sartell.md",
-    "source/content/Dungeons And Dragons/NPCs/Fel Ardra.md",
-    "source/content/Dungeons And Dragons/NPCs/Flapjack.md",
-    "source/content/Dungeons And Dragons/NPCs/Large Luigi.md",
-    "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241028 - Meta Session.md",
-    "source/content/Dungeons And Dragons/GM Notes/Session Notes/20241021 - Meta Session.md",
-    "source/content/Dungeons And Dragons/Locations/The Rock of Bral.md",
-    "source/content/Dungeons And Dragons/Quest Log/Sample Sheet.md",
-    "source/content/index.md",
     "source/content/Dungeons And Dragons/NPCs/attachments/Pasted image 20250106233721.png",
     "source/content/Dungeons And Dragons/NPCs/attachments/luigi.png",
     "source/content/Dungeons And Dragons/NPCs/attachments/sartell.png",
@@ -198,14 +202,9 @@
     "source/content/ormos-sample/archive/en/articles/archive",
     "source/content/ormos-sample/archive/en/articles",
     "source/content/ormos-sample/archive/en",
-    "source/content/ormos-sample/archive",
-    "source/content/ormos-sample",
-    "source/content/Dungeons And Dragons/GM Notes/Session Notes",
     "attachments/Pasted image 20241020162712.png",
     "Pasted image 20241018202911.png",
     "Pasted image 20241018202854.png",
-    "Pasted image 20241018202919.png",
-    "source/quartz/static/og-image.png",
-    "source/quartz/static/icon.png"
+    "Pasted image 20241018202919.png"
   ]
 }
