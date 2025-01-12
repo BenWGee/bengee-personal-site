@@ -24,4 +24,5 @@ What do you do?
 - The unknown person behind the door [[Vespera Vex Thorne]]
 - They will speak to the player in thieve's can't "Sarum are oe here"
 	- Translation: Why are you here?
-- 
+- If the players make their way inside and tell their tale they will be escorted to a room where they must complete a combat trial. 
+- The room contains a projection of a mind flayer and two intellect devourers. This is meant as a test of the characters skill. They will fight viciously but they will not die if the encounter is failed. 
