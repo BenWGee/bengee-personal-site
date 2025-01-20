@@ -1,6 +1,6 @@
 ---
 tags:
-  - gm_wip
+  - npc
 ---
 
 ![[Vespera Vex Thorne.png]]
