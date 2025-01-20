@@ -1,6 +1,6 @@
 ---
 tags:
-  - quest
+  - quest_complete
 ---
 
 - Sartell informed you of a local man that owes her a favour. 
