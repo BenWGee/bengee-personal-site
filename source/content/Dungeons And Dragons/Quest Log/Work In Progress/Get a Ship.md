@@ -3,7 +3,7 @@ tags:
   - quest
 ---
 
-[[Davpos - Visible For All]]/[[Ahrni - Visible For All]]/[[Oakheart - Visible For All]]/[[Jasper - Visible For All]]
+[[Davpos]]/[[Ahrni]]/[[Oakheart]]/[[Jasper]]
 
 - The Rock is nice but to even think about leaving we need a ship.
 - [[Commodore Krux]] seems to own some ships, they might be able to sell one or know someone who can.

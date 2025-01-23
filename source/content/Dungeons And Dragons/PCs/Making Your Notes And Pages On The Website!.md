@@ -1,5 +1,5 @@
-- Create notes [here](https://github.com/BenWGee/dnd/tree/main/source/content/PCs/Davpos%20-%20Personal)
-- Create as many notes and sub folders as you like under "PCs/YOUR_CHARACTER_NAME - Personal"
+- Create notes [here](https://github.com/BenWGee/bengee-personal-site)
+- Create as many notes and sub folders as you like under "PCs/YOUR_CHARACTER_NAME"
 - You do not need to do this for your notes. But if you do it will create a new page on the website with your notes. 
 - If you have another note taking app/website we can look at integrating it into this, but I make no promises. 
 # Prerequisites
@@ -7,7 +7,7 @@
 - Send me your GitHub username/email to get added as a "Collaborator" on the site
 - No coding required!
 # How To Make Notes
-1. Go [here](https://github.com/BenWGee/dnd/tree/main/source/content/PCs/Davpos%20-%20Personal)
+1. Go [here](https://github.com/BenWGee/bengee-personal-site)
 2. Click on your folder
 3. Under your folder click "Add file"
 	- You can create new or upload a local file

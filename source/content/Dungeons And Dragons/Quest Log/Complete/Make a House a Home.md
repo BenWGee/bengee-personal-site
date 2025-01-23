@@ -1,6 +1,6 @@
 ---
 tags:
-  - quest
+  - quest_complete
 ---
 
 - You have arrived on the Rock of Bral with little to your name but the clothes on your back. You should find somewhere to stay or camp.

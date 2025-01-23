@@ -10,10 +10,10 @@ This campaign is based on the "Spelljammer Adventures in Space" series of books 
 
 You can find relevant files under the "Dungeons And Dragons" folder.
 There is also a folder per character:
-- [[Ahrni - Visible For All]]
-- [[Davpos - Visible For All]]
-- [[Jasper - Visible For All]]
-- [[Oakheart - Visible For All]]
+- [[Ahrni]]
+- [[Davpos]]
+- [[Jasper]]
+- [[Oakheart]]
 - [[Quests]]
 
 
