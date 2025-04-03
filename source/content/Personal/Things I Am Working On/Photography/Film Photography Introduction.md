@@ -30,3 +30,20 @@ Cover camera:
 This is a canera designed for children. I love it. This camera comes under many names and brands. It is most likely designed on mass and licensed out to businesses. My specific one is the Hoco DV200 but you will find others just like it on Amazon, Ali Express, or local electronics/toy shops. The concept here is simple. The camera uses a thermal printer to print out photos instantly. This is the same technology used in receipt printers. Images are burned onto the paper. No ink required. The photos have a grainy lo-fi quality. I adore this camera. Taking photos on the go, sharing them with people, and having no real "cost" when compared to traditional film. 
 
 I am not going to waste time talking specific specs. Its a toy first and foremost. Of note, I have two thermal printing devices. The Hoco DV200 and a bluetooth thermal printer from Flying Tiger. The later does not have a camera. Instead printing images directly from a phone. The images here came out much nicer than the DV200. I do not know if this is down to image quality, the printer tech, or a combinaiton of both. I would love to see a marage of ideas. A decent sensor/lens on a camera that can print instantly. For now I'll enjoy this pair for my novel photos.  
+
+**Minox 35 GT Golf**
+
+This is the first "serious" camera to discuss. 35mm film in a tiny form factor. A drawbridge reveals the camera lens. If the camera was any smaller you would not be able to fit the film. There are various Minox 35 models. The GT introduced a timer. The [camera-wiki](http://camera-wiki.org/wiki/Minox_35) has some great info. 
+
+I am not sure if this camera works. For power it uses 4.5V lead battery, discontinued for obvious reasons. I managed to fit three 1.5V button batteries in its place. It powers on. However, I do not see the aperture open when I click the shutter button. This might require some work. I shot a roll of film before realising this issue. I guess we'll wait and see.
+
+The lens features a manual focus ring. It is tiny on this camera but ledgible. This is how I learned to read a manual focus. 
+
+**Yashica MF-1 (1979)**
+
+Yashica has two cameras with this name. Mine is from 1979. The newer version is a 35mm reminiscent of classic disposable cameras. I have no idea why they used the MF-1 name for this camera. It has no resemblance to the 1979 version. From now on when I refer to the MF-1 I am talkng about the 1979 version. 
+
+I bought this camera in March 2025. 
+
+
+
