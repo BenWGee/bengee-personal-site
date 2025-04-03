@@ -43,7 +43,14 @@ The lens features a manual focus ring. It is tiny on this camera but ledgible. T
 
 Yashica has two cameras with this name. Mine is from 1979. The newer version is a 35mm reminiscent of classic disposable cameras. I have no idea why they used the MF-1 name for this camera. It has no resemblance to the 1979 version. From now on when I refer to the MF-1 I am talkng about the 1979 version. 
 
-I bought this camera in March 2025. 
+I bought it in March 2025. All black, with a textured feel. This feels like a camera. The focus wheel is simplified. Four images help illustrate the ideal focus distance. The underside has corresponding numbers for the focus too. As of today I am carrying the MF-1 everywhere. It is pocketable, albeit not as small as the Minox 35. The simplified focus takes away the stress. Just set it and forget it. 
 
+The camera is filled with 35mm black and white ISO 100 film. Hopfully, I will get this developed in April. 
+
+**Polaroid**
+
+Polaroid cameras inspired my interest in the Hoco DV200 seen prior. I love the instant development concept. Before I discovered the Hoco camera I wanted to turn a Polaroid into a thermal printer camera. Inspired by this [Petal Pixel blog](https://petapixel.com/2021/04/08/how-to-make-a-digital-polaroid-camera-for-cheap-thermal-instant-photos/) I bought a Polaroid but never got around to installing a thermal mechanism. Too many projects too little time. 
+
+This camera is untested. Removing it from the shell I can see much of the internals. It looks fine coming from me, but I have no idea what I am doing. Polaroid still produces film. I could buy some SX-70 film and try it out. But, for now it is just sitting on my shelf as a pretty paperweight. 
 
 
