@@ -1,3 +1,12 @@
+# Hello
+
+Hi there, this is my personal website. I host it using Github Pages. It is powered by Quartz, a static site generator. In a nutshell Quartz takes markdown files and converts them to HTML, then Github Pages dosplays them. Below is the ReadMe from defenderofbasic, the original creator of Quartz. I have made no major development to the Quartz project itself. I have made some minor aesthetic changes to suit my needs. If you have questons about Quartz reach out to defenderofbasic. 
+
+If you have questions about the content of my site please reach out in the comments, or mail. 
+
+# Original defenderofbasic readme
+
+
 # Obsidian / Quartz / GitHub Pages Template
 
 Deployed URL: https://defenderofbasic.github.io/obsidian-quartz-template
