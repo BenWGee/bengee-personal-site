@@ -1,4 +1,4 @@
-# Chapter One
+# One
 
 I walk home from work. My home is in view from across the estate. Living in a town has always appealed to me. Everything is close, but not claustrophobic like the city. No one ever calls it a city. The city is just "town". It is as if our tiny nation accepts that our biggest hub is humble on the world stage. I am a step removed from that again. Bigger than the village I grew up in, but smaller than "town". It is 18:20. I enjoy my work-life balance. The office is indifferent to my plans. Normally, I finish at 17:00. Dinner is done by 19:00, but today the kitchen is running late. 
 
@@ -21,3 +21,17 @@ She has the face of a mother who's been asked, "Are we there yet?" for the hundr
 "It's Maria for fuck sake, John, these people paid good money to be here," she says, picking up the plates and moving toward the next room. "There are more tickets, get going," she says, kicking the door open, letting it swing closed behind her. 
 
 I catch a glance. The next room is full of people. From here, I can see a chandelier hanging high above ten, maybe twenty tables. It is packed. The door swings shut, and the chatter dampens again. The kitchen feels huge. Double-sized fridges cover one wall. Brushed metal cabinets have replaced my wooden shelves and presses. The floor is spotless. A knife bag is rolled out. A set of seven Victorinox knives stares back at me. Besides Mary, or Maria, they are the only thing that feels familiar in the kitchen. 
+
+I am drawn to the dining room. Who am I serving in? The doors feel weightless as I barrel through. A woman is sitting on a couch with a plate of pasta. A second is waiting on a coffee table, still warm. The woman looks up.
+
+"Everything ok baby? You were taking a while," she says. 
+
+"Yeah, just needed to clean up." I glance around. No grand dining hall. The TV dominates the room. It's too big, but the deal was too good to pass up. A re-run of *Kitchen Nightmares* is playing. 
+
+"The dishes can wait" she says.
+
+The woman is warm and smiling. Mary would never wear a blazer. I sit down pushing the thoughts away.
+
+
+
+
