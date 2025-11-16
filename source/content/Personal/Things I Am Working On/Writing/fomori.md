@@ -8,4 +8,6 @@ John nestles himself between the heaving crowd of somewhere new. Fomori. The nam
 
 The air is heavy inside. John spots a line to the dancefloor among the crowd. At the far end, a stage. As the room opens up familiar songs echo through the maw of the building. Speakers crush the notes into musical paste. The vocals are replaced with a choir of heathens. The crowd sways with the music. John stays in step, inching his way deeper toward the front. The stage is tangled mess of cables bowing at the middle. They are connected into worn out beige boxes with lights and dials. The speakers begin to fade out. A faint hiss is all that remains. The crowd snaps to a halt waiting for their next note. 
 
-A white light lands on the stage. The crowd is frozen, fixated on the stage. The places goes cold. The crowd is miles away in the silence. The stage feels impossibly close. He could climb up perform if he had the courage. 
+A white light lands on the stage. The crowd is frozen, fixated on the stage. The places goes cold. The crowd is miles away in the silence. The stage feels impossibly close. He could climb up perform if he had the courage. A slow knocking comes from the stage. A s woman comes into view atop the stage. Her head is just visible over the desk from John's view below. The neon neck of her top gives her face a glow. It casts shadows along her face. Her cheeks come to a knife edge. Her eyes are sparkling black with eyeliner ending in a point. The beige boxes emit a feint glow as her hands sail across the table. The speakers hiss, not yet satisfied. 
+
+
