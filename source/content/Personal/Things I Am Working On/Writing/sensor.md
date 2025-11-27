@@ -22,7 +22,9 @@ I return to my drink and the bartender. A few other folk dotted the place. They 
 
 The next day, I was the talk of the town. I had breakfast in the pub, and everyone was eager to say hello. I kept things as quiet as I could. Not like me to be the centre of attention. Podge came to fetch me, and we arrived at a barn made up like a church. A few pews from the local timber, a small cross on the altar. It was no cathedral, but some thought was put in. 
 
-There was a bustle in the village. Podge brought some order as he stood in front of the altar. He began a mass anyway. I didn’t know if it was a funny regional mass or if I hadn't been to mass in a while. The sermon was all over the place. Eventually, Podge looks at me. "And the present the body and blood of Christ, Seamus will join me." The crowd of them was excited. A few whispers.  
+There was a bustle in the village. Podge brought some order as he stood in front of the altar. He began a mass anyway. I didn’t know if it was a funny regional mass or if I hadn't been to mass in a while. The sermon was all over the place. Eventually, Podge looks at me. "And to present the body and blood of Christ, Seamus will join me." The crowd of them was excited. A few whispers.  
+
+
 
 
 
