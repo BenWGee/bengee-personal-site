@@ -1,2 +1,2 @@
 
-![Galaxy Merge Review](Galaxy Merge.png)
+![Galaxy Merge Review](GalaxyMerge.png)
