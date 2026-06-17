@@ -1,9 +1,9 @@
 # Building Ellette
 
 ## Introduction
-Few characters have changed as much over the course of the campaign as Ellette. One of the longest-serving members of Sordia Vignti and the party's primary spellcaster, she began as a curious and impulsive young sorcerer struggling to control her magic. Years of adventures have transformed her into one of the group's most powerful and dependable heroes.
-Along the way, she has faced hags, dragons, ancient evils, and more than her fair share of self-inflicted problems. Her journey from inexperienced spellcaster to veteran adventurer has made her one of the campaign's most recognisable characters.
-In this article, we'll look at the choices that shaped Ellette both mechanically and narratively, examining the race, class, spells, and features that define the character, as well as the lessons learned from playing her over the course of the campaign.
+Few characters have changed as much over the course of the campaign as Ellette. One of the longest-serving members of Sordia Vignti. The party's primary spellcaster. She began as a curious and impulsive young sorcerer struggling to control her magic. Years of adventures have transformed her.
+She has faced hags, dragons, and more than her fair share of self-inflicted problems. Her journey from inexperienced spellcaster to veteran adventurer has made her one of the campaign's most recognisable characters.
+Let's take a closer look at Ellette. Mechanics, and story, we will look at how to build Ellette, and learn more about the player behind her.
 
 ## Who is Ellette?
 
@@ -50,14 +50,19 @@ _Why this group?_
 
 That's a tough question. We were just a group of Bon-Bons with a dream, and everyone in the group has been easy to get on with for the most part, and made some good friends along the way.
 
-_DM Note:
-(Bon-Bon: "Term of endearment bestowed upon the LGBTQIA+ members by the DM after a gift of sweets")_
+_DM Note:_
+
+Bon-Bon: Term of endearment bestowed upon the LGBTQIA+ members by the DM after a gift of sweets.
 
 _What inspired this character?_
 
 **Nikita:**
 
 I really Fucking love elves, and when I was looking through all the types of Elf, Eladrin had the most "Notions." This was coming off the back of my millionth playthrough of Dragon Age; they seemed the closest to the Elvhen, from that she kind of developed
+
+_DM Note:_
+
+Notions: A notion is a mental image or idea. In Irish slang someone with "notions" has elevated ideas about themselves. Usually used as an insult. 
 
 _Did Ellette start the way she is now?_
 
