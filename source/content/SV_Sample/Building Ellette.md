@@ -4,6 +4,7 @@
 Few characters have changed as much over the course of the campaign as Ellette. One of the longest-serving members of Sordia Vignti and the party's primary spellcaster, she began as a curious and impulsive young sorcerer struggling to control her magic. Years of adventures have transformed her into one of the group's most powerful and dependable heroes.
 Along the way, she has faced hags, dragons, ancient evils, and more than her fair share of self-inflicted problems. Her journey from inexperienced spellcaster to veteran adventurer has made her one of the campaign's most recognisable characters.
 In this article, we'll look at the choices that shaped Ellette both mechanically and narratively, examining the race, class, spells, and features that define the character, as well as the lessons learned from playing her over the course of the campaign.
+
 ## Who is Ellette?
 
 **Nikita**:
@@ -17,7 +18,9 @@ I don't want to say a leader, because she never wanted to lead, It just kinda ha
 I have definitely spent a lot of time trying to push others into the centre, So everyone gets their time to shine, As long as they don't get us(party) killed 
 
 _How do you want people to remember Ellette?_
+
 **Nikita**:
+
 She is more than her anger issues, I think I have spent the last while trying to tone those down, and she was just trying her best, whether or not it’s a happy ending, who knows
 
 ## Meet The Player
